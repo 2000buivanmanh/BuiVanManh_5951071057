@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\DemoCRUD\DemoCRUD\bin\Debug\DemoCRUD.exe.config
+C:\Users\PC\source\repos\DemoCRUD\DemoCRUD\bin\Debug\DemoCRUD.exe
+C:\Users\PC\source\repos\DemoCRUD\DemoCRUD\bin\Debug\DemoCRUD.pdb
+C:\Users\PC\source\repos\DemoCRUD\DemoCRUD\obj\Debug\DemoCRUD.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\DemoCRUD\DemoCRUD\obj\Debug\DemoCRUD.Form1.resources
+C:\Users\PC\source\repos\DemoCRUD\DemoCRUD\obj\Debug\DemoCRUD.Properties.Resources.resources
+C:\Users\PC\source\repos\DemoCRUD\DemoCRUD\obj\Debug\DemoCRUD.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\DemoCRUD\DemoCRUD\obj\Debug\DemoCRUD.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\DemoCRUD\DemoCRUD\obj\Debug\DemoCRUD.exe
+C:\Users\PC\source\repos\DemoCRUD\DemoCRUD\obj\Debug\DemoCRUD.pdb
